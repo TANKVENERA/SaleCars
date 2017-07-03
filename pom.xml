@@ -50,9 +50,9 @@
     </dependency>
   </dependencies>
   <modules>
-    <module>ru.mail.mina.repository</module>
-    <module>ru.mail.mina.service</module>
-    <module>ru.mail.mina.web</module>
+    <module>repository</module>
+    <module>service</module>
+    <module>web</module>
   </modules>
   <build>
     <plugins>
